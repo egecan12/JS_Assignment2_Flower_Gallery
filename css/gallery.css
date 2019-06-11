@@ -1,0 +1,60 @@
+li{
+float: right;
+}
+
+body{
+    background-image: url("https://img.freepik.com/free-vector/vibrant-pink-watercolor-painting-background_53876-58930.jpg?size=626&ext=jpg");
+
+}
+
+#figcaption{
+    color: purple;
+    font-family: arial,sans-serif;
+    text-decoration-style: solid;
+    font-weight: bold;
+
+}
+
+h1{
+    padding-left: 50px;
+}
+
+#arrowR{
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    bottom: 70px;
+    left: 1120px;
+
+}
+
+
+#arrowL{
+   position: relative;
+   bottom: 500px;
+   height: 120px;
+   width: 120px;
+}
+
+#divBorder{
+    border-width:20px;
+    border-style:double;
+    border-color:black;
+}
+
+
+#logo{
+
+position: absolute;
+top: 30px;
+
+}
+
+#smallDiv{
+
+
+
+
+
+    
+}
